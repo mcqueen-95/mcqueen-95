@@ -5,16 +5,16 @@
 </div>
 
 <br>
-<p align="center"> <img src="https://github.com/mortisfication/mortisfication/blob/77c8d6fc3be349d8dcae3314e1687af28cdc0a28/aura%202.png" alt="mcqueen" width="850"> </p>
+<p align="center"> <img src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/aura%202.png" alt="mcqueen" width="850"> </p>
 <p align="center"> 
   art creds: @kkelsey_spring on <a href="https://x.com/kkelsey__spring">twitter/x</a> * <a href="https://www.instagram.com/kkelsey__spring/">instagram</a>
 </p>
 <p align="center"> all graphics made by me</p>
 
-<p align="left"> <a href="https://mortisfication.atabook.org"> <img src="https://github.com/mortisfication/mortisfication/blob/7f06855035797d310cdc1f166043681ca119c6a2/atabook%20png.png" alt="mcqueen" width="500"> </p>
+<p align="left"> <a href="https://mortisfication.atabook.org"> <img src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/atabook%20png.png" alt="mcqueen" width="500"> </p>
 
-<p align="right"> <a href="https://pronouns.cc/@mortisfication"> <img src="https://github.com/mortisfication/mortisfication/blob/7f06855035797d310cdc1f166043681ca119c6a2/pronouns.png" alt="mcqueen" width="500"> </p>
+<p align="right"> <a href="https://pronouns.cc/@mortisfication"> <img src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/pronouns.png" alt="mcqueen" width="500"> </p>
 
-<p align="left"> <a href="https://listography.com/mortisfication"> <img src="https://github.com/mortisfication/mortisfication/blob/7f06855035797d310cdc1f166043681ca119c6a2/listography.png" alt="mcqueen" width="500"> </p>
+<p align="left"> <a href="https://listography.com/mortisfication"> <img src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/listography.png" alt="mcqueen" width="500"> </p>
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
