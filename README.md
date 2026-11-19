@@ -4,6 +4,8 @@
 [![Hits](https://hits.sh/github.com/mortisfication.svg?style=for-the-badge&label=KA-CHOW&extraCount=3120&color=f7be20&&labelColor=f7be20&abbreviated=true)](https://hits.sh/github.com/mortisfication/) ![GitHub followers](https://img.shields.io/github/followers/mortisfication?style=for-the-badge&label=autographs%20signed&labelColor=%23bd1e1e&color=d64f22) ![Static Badge](https://img.shields.io/badge/PISTON_CUP_WINS-7-333333?style=for-the-badge&labelColor=d67022&color=%23f7be20) 
 </div>
 
+<p align="center"> <img src="https://github.com/mcqueen-95/mcqueen-95/blob/0c01c4170b6a4e9c3c16d168d716be7805294b6e/AWEEEE.png" alt="mcqueen" width="850"> </p> <p align="center"> hi there 5orrows oh o ohhh </p>
+
 <br>
 <p align="center"> <img src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/aura%202.png" alt="mcqueen" width="850"> </p>
 <p align="center"> 
