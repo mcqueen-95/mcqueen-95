@@ -13,10 +13,7 @@
 </p>
 <p align="center"> all graphics made by me</p>
 
-<p align="left"> <a href="https://mortisfication.atabook.org"> <img src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/atabook%20png.png" alt="mcqueen" width="500"> </p>
+<a href="https://mortisfication.atabook.org"> <img align="left" src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/atabook%20png.png" alt="mcqueen" width="400"> <a href="https://pronouns.cc/@mortisfication"> <img align="right" src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/pronouns.png" alt="mcqueen" width="400"> 
 
-<p align="right"> <a href="https://pronouns.cc/@mortisfication"> <img src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/pronouns.png" alt="mcqueen" width="500"> </p>
-
-<p align="left"> <a href="https://listography.com/mortisfication"> <img src="https://github.com/mortisfication/mcqueen/blob/bc009a0c3813f409db7fbefacddc9b24b1fe8918/listography.png" alt="mcqueen" width="500"> </p>
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> 
